@@ -6,9 +6,7 @@ using namespace std;
 
 bool isUnique(int n);
 
-int nums[10];
-int num, n = 0, count = 1;
-bool thisindex;
+
 
 int main(){
     
