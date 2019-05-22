@@ -12,14 +12,7 @@ bool thisindex;
 
 int main(){
     
-   while(count < 11){
-    cout << "\nEnter # " << count << " : ";
-    cin >> num;
-    if(num < 10 || num > 100){
-      cout << "The number entered is not in the valid range of 10 to 100\n";
-      count++;
-      continue;
-    }
+   
 
     thisindex = isUnique(num);
 
