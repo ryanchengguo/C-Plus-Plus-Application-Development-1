@@ -46,12 +46,4 @@ int main(){
    
 }
 
-bool isUnique(int n){
-  for(int i=0; i<10; i++){
-        if(nums[i] == num){
-          return false;
-            break;
-        }
-    }
-    return true;
-}
+
