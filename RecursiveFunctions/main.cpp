@@ -8,7 +8,14 @@
 
 using namespace std;
 
+// 8 Function Prototypes
+void sign(const int );
 
+// NOTE: Because the next 2 prototypes are for template functions,
+// their implementation needs to be appended to the end of this file
+// and therefore cannot be put in a separate .cpp file instead.
+template<typename type, size_t size> //template function
+type addArray(const array<type,size> &, const int );
 
 template<typename type,size_t size> //template function
 bool isMember(const array<type,size> &, const int, const type );
