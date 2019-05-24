@@ -290,18 +290,5 @@ int CountOdd(const int inputArray[], const int size)
     
     //ANSWER
     
-    if (size == 0)
-    {
-        return 0;
-    }
     
-    if (inputArray[size - 1] % 2 != 0) //if odd
-    {
-        return CountOdd(inputArray, size - 1) + 1;
-    }
-    
-    else
-    {
-        return CountOdd(inputArray, size - 1) + 0;
-    }
 }
