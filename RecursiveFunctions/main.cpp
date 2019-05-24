@@ -280,13 +280,7 @@ int Position(const int inputArray[], const int size, const int value)
 int CountOdd(const int inputArray[], const int size)
 {
     
-//    if(inputArray[size-1] % 2 != 0){
-//        return inputArray[size-1];
-//    }else{
-//        CountOdd(inputArray, size - 1);
-//    }
-//
-//    return 0;
+
     
     //ANSWER
     if (size == 0)
