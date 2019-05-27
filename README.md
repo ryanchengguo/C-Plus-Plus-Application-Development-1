@@ -13,5 +13,13 @@ Textbook: C-Plus-Plus-How-to-Program-Paul-Deitel Ninth Edition
 - CH11# Object-Oriented Programming: Inheritance  
 - CH12# Object-Oriented Programming: Polymorphism  
 - CH13# Stream Input/Output: A Deeper Look  
-- CH14# File Processing  
-- CH15# Standard Library Containers and Iterators  
+- CH14# File Processing .   
+- CH15# Standard Library Containers and Iterators .   
+- CH16# Standard Library Algorithms  
+- CH17# Exception Handling: A Deeper Look  
+- CH18# Introduction to Custom Templates  
+- CH19# Custom Templatized Data Structures  
+- CH20# Searching and Sorting . 
+- CH21# Class string and String Stream Processing: A Deeper Look  
+- CH22# Bits, Characters, C Strings and structs  
+- CH23# Other Topics  
