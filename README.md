@@ -1,6 +1,6 @@
 # C-Plus-Plus-Application-Development-1   
 Textbook: C-Plus-Plus-How-to-Program-Paul-Deitel Ninth Edition   
-###CH1# Introduction to Computers and C++  
+##CH1# Introduction to Computers and C++  
 ###CH2# Introduction to C++ Programming: Input/Output and Operators  
 ###CH3# Introduction to Classes, Objects and Strings  
 ###CH4# Control Statements: Part 1: Assignment, ++ and -- Operators  
